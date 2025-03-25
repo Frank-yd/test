@@ -11,7 +11,7 @@ import global_tools_func.global_tools as gt
 
 #abc——colomuns
 #ccc
-# heihei youyou
+# Bye conflict
 
 def extract(product_code,time,filelist):
     # 文件名检索 日期为特征值 定向提取单一文件 但输出为list
